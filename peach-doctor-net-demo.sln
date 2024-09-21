@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachDoctor.Api", "src\PeachDoctor.Api\PeachDoctor.Api\PeachDoctor.Api.csproj", "{1B26412F-6E88-45DF-B91F-C73ED93B32F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachDoctor.Shared", "src\PeachDoctor.Shared\PeachDoctor.Shared\PeachDoctor.Shared.csproj", "{D52274BD-C7AE-48EF-9E86-11D3652D6A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B26412F-6E88-45DF-B91F-C73ED93B32F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B26412F-6E88-45DF-B91F-C73ED93B32F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B26412F-6E88-45DF-B91F-C73ED93B32F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B26412F-6E88-45DF-B91F-C73ED93B32F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52274BD-C7AE-48EF-9E86-11D3652D6A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52274BD-C7AE-48EF-9E86-11D3652D6A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52274BD-C7AE-48EF-9E86-11D3652D6A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52274BD-C7AE-48EF-9E86-11D3652D6A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B347C341-E7F4-47D3-8C6C-74A0610ABEC1}
+	EndGlobalSection
+EndGlobal
